@@ -8,8 +8,8 @@
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\Drivers\\STM32F4xx_HAL_Driver\\Inc\\Legacy",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\Drivers\\CMSIS\\Device\\ST\\STM32F4xx\\Include",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\Drivers\\CMSIS\\Include",
-                "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\user\\inc",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\hardware\\inc",
+                "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\user\\inc",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\MDK-ARM",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\Core\\Src",
                 "c:\\Users\\MECHREVO\\Downloads\\keil_proj_demo-8.6-8.8\\keil_proj_demo-8.6-8.8\\Drivers\\STM32F4xx_HAL_Driver\\Src",
@@ -75,7 +75,7 @@
                 "__GNUC_MINOR__=2",
                 "__GNUC_PATCHLEVEL__=1"
             ],
-            "intelliSenseMode": "${default}"
+            "intelliSenseMode": "gcc-arm"
         }
     ],
     "version": 4
